@@ -60,23 +60,21 @@
 
 ## Github Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=BritnessDev&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BritnessDev&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Sabertooth9999&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sabertooth9999&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="BritnessDev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BritnessDev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    <img alt="BritnessDev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sabertooth9999&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
 </p>
 </details>
 
 ## <p align="center">😇 Contact Me 😇</p>
   <div align="center"> 
-   <a href="mailto:britness.gmd@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+   <a href="mailto:dangjing9999@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/vDRQFTs2QPLh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/BritnessDev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/q5kGW4PS" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
+  <a href="https://discord.gg/eP2QcT3b" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
   &nbsp;&nbsp;
   </div>
 </div>
